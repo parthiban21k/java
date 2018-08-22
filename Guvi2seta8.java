@@ -1,6 +1,6 @@
 import java.util.*;
 import java.math.*;
-class Guvi2set8
+class Guvi2seta8
 {
     public static void main(String args[])
     {
