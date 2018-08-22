@@ -6,9 +6,9 @@ class Guvi2set9
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         int n1=1;
-        for(int i=1;i<n;i++)
+        for(int i=1;i<=n;i++)
         {
-            n1+=n1*i;
+            n1=n1*i;
         }
         System.out.print(n1);
     }
